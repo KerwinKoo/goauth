@@ -23,5 +23,8 @@ _testmain.go
 *.test
 *.prof
 
-# ingore bin file 
+# ignore bin file 
 goauth
+
+# ignore project debug generated paths
+/tmp
